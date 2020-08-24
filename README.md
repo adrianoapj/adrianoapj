@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adriano (he/him), I am a 16 years old high school student and tech enthusiast, currently I am a Hack Club leader in my school, also I love to use code to help people, that's why I consider myself as a hacker, so feel free to reach me if you want!
+My name is Adriano (he/him), I am a 17 years old high school student and tech enthusiast, currently I am a Hack Club leader in my school, also I love to use code to help people, that's why I consider myself as a hacker, so feel free to reach me if you want!
 
 ## Techs
 
