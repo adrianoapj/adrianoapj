@@ -47,7 +47,7 @@ Landing Page: https://github.com/teamoneo/hermes-landing
 Front end (demo): https://github.com/teamoneo/hermes-frontend  
 Back end: https://github.com/teamoneo/hermes-backend  
 
-- Credifast: a open banking (which is currently being implemented in Brazil) solution which aims to help people to get access to credit cards and also help to ensure a better financial education to the users  
+- Credifast: an open banking (which is currently being implemented in Brazil) solution which aims to help people to get access to credit cards and also help to ensure a better financial education to the users  
 Design: https://www.figma.com/file/ruP90ed5h1aJROVP0YugeJ/App?node-id=0%3A1  
 Front end: https://github.com/teamoneo/tecban-frontend  
 Back end: https://github.com/teamoneo/tecban-backend  
