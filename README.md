@@ -20,11 +20,11 @@ And here is some of the tecnologies I want to learn:
 
 Here is some of my achievements:
 
-- Olimpíada IFPR de Robótica - Fase I (2018) by IFPR - 2rd place
-- Olimpíada IFPR de Robótica - Fase II (2019) by IFPR - 1rd place
-- Olimpíada IFPR de Robótica - Fase II (2019) by IFPR - 1rd place
-- Mega Hack 2.0 - Desafio Olist by Shawee (2020) - 5rd place
-- Hackathon #TransformaBMG by Shawee (2020) - 4rd place
+- Olimpíada IFPR de Robótica - Fase I (2018) by IFPR - 2nd place
+- Olimpíada IFPR de Robótica - Fase II (2019) by IFPR - 1st place
+- Olimpíada IFPR de Robótica - Fase II (2019) by IFPR - 1st place
+- Mega Hack 2.0 - Desafio Olist by Shawee (2020) - 5th place
+- Hackathon #TransformaBMG by Shawee (2020) - 4th place
 - Security Bug Bounty Hunter by GitHub (2020)
 
 OBS: "Olimpíada IFPR de Robótica - Fase I/II" means "IFPR's Robotics Olympics - Phase I/II"
