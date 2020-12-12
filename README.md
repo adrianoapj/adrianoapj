@@ -56,6 +56,5 @@ Just a note: these projects were developed in hackathons, so what I currently ha
 
 ## Contact
 
-E-mail addresses:
-- eu@adrianoapj.tech
+E-mail address:
 - mrninhojr@gmail.com
