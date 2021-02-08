@@ -34,11 +34,11 @@ OBS: "Olimpíada IFPR de Robótica - Fase I/II" means "IFPR's Robotics Olympics 
 - Sula: a social platform where truckers can require better life conditions and rights  
 Design: https://www.figma.com/file/TyA2AFB8hOXhpbVDbycFvA/App?node-id=0%3A1  
 Back end: https://github.com/teamoneo/sula-backend  
-Front end: https://github.com/teamoneo/sula-frontend  
+Front end: https://github.com/teamoneo/sula-frontend (archived for now)
 
 - Ecovest: a financial platform to help people to economize and invest their money  
 Design: https://www.figma.com/file/Xw38TNfN7zjvK7KFWLzNxe/Ecovest?node-id=0%3A1  
-Landing Page: https://github.com/teamoneo/ecovest-frontend  
+Landing Page: https://github.com/teamoneo/ecovest-frontend (archived for now)
 Mobile: https://github.com/teamoneo/ecovest-mobile  
 
 - Hermes: a bot for marketplaces which answer common questions or questions which is already answered in the description of the product  
