@@ -9,12 +9,8 @@ Here is some of my favorite technologies:
 - Node.js
 - GraphQL
 - ReactJS and React Native
-- TypeScript
-
-And here is some of the tecnologies I want to learn:
-
-- Ruby and Ruby on Rails
 - Next.js
+- TypeScript
 
 ## Achievements
 
