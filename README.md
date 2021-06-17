@@ -5,7 +5,7 @@ I'm also working for [@arboplatform](https://github.com/arboplatform) since May 
 
 ## Techs
 
-Here is some of my favorite technologies:
+Some of my favorite technologies are:
 
 - Node.js
 - GraphQL
