@@ -15,7 +15,7 @@ Some of my favorite technologies are:
 
 ## Achievements
 
-Here is some of my achievements:
+My main achievements are:
 
 - Olimpíada IFPR de Robótica - Fase I (2018) by IFPR - 2nd place
 - Olimpíada IFPR de Robótica - Fase I (2019) by IFPR - 1st place
@@ -49,7 +49,7 @@ Design: https://www.figma.com/file/ruP90ed5h1aJROVP0YugeJ/App?node-id=0%3A1
 Front end: https://github.com/teamoneo/tecban-frontend  
 Back end: https://github.com/teamoneo/tecban-backend  
  
-Just a note: these projects were developed in hackathons, so what I currently have about these is just a prototype, in the future, we may see this products in the market...
+Just a note: these projects were developed on hackathons, so what I currently have about these is just a prototype!
 
 ## Contact
 
