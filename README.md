@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Adriano (he/him), I am a 17 years old high school student, hacker, and tech enthusiast, and currently I am a Hack Club leader in my school, also I love to use code to help people, and that's one of the reasons I consider myself as a hacker. Feel free to reach me if you want!  
-I'm also working for [@arboplatform](https://github.com/arboplatform) since May 2021.
+My name is Adriano (he/him), I am a 18 years old high school student, hacker, and tech enthusiast, and currently I am a Hack Club leader in my school, also I love to use code to help people, and that's one of the reasons I consider myself as a hacker. Feel free to reach me if you want!  
+I have already worked to [@arboplatform](https://github.com/arboplatform) from May 2021 to August 2021.
 
 ## Techs
 
